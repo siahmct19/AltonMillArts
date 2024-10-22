@@ -34,12 +34,12 @@ The creators would like to acknowledge assistance and support from:
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” Canadian Journal of Communication 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321].
+Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321].
 
 “Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2) | Digital Tattoo.” Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/].
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924 | Theatre Research in Canada / Recherches Théâtrales Au Canada.” Theatre Research in Canada / Recherches Théâtrales Au Canada 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/].
+O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/].
 
-Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In “Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
+Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In *“Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda*, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
 
 
