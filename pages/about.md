@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode,
+This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
 
 ## Transcript
 
