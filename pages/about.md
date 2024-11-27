@@ -10,15 +10,12 @@ credits: false
 
 {% include feature/jumbotron.html objectid="altonmill" %}
 
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Description;Links;Acknowledgments;References" %}
 
 ## Description
 
 This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
 
-## Transcript
-
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
