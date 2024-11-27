@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="altonmill" %}
 
-{% include feature/nav-menu.html sections="Description;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Description;Acknowledgments;Links;References" %}
 
 ## Description
 
