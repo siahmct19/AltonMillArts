@@ -8,14 +8,12 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="altonmill" %}
+{% include feature/jumbotron.html objectid="mill2" %}
 
 {% include feature/nav-menu.html sections="Description;Acknowledgments;Links;References" %}
 
 ## Description
-
 A Work of Love: a podacst episode discussing the ongoing preservation efforts at the Alton Mill Arts Centre. Joined by general manager Martin Kouprie, Siah McTavish and Ashley Chintan discuss the continuity and change at the heritage site as it engages with contemporary values and audiences.
-
 
 ## Links
 The following resources were used to build this sites media collection:
@@ -26,12 +24,10 @@ The following resources were used to build this sites media collection:
 4.  https://www.historicplaces.ca/media/5422/sosguideen.pdf
 
 ## Acknowledgments
-
 The creators would like to thank those involved for their time and support:
 
 -Martin Kouprie of the Alton Mill Arts Centre for his time and thoughtful conversation
 -The York University Making and Media Creation Lab for accessible workshops and equipment
-
 
 ## References
 
