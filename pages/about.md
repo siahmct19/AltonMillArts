@@ -14,7 +14,11 @@ credits: false
 
 ## Description
 In this weeks episode, we visited the Alton Mill Arts Centre to speak with general manager, artist, and cheesemaker Martin Kouprie. Co-hosts Siah McTavish and Ashley Chintan discuss the continuity and change at the heritage site as it engages with contemporary art endeavours, interactive events, and community audiences in a small town with emphasis on local identity.
+## Acknowledgments
+The creators would like to thank those involved for their time and support:
 
+-Martin Kouprie of the Alton Mill Arts Centre for his time and thoughtful conversation
+-The York University Making and Media Creation Lab for accessible workshops and equipment
 ## Links
 The following resources were used to build this sites media collection:
 
@@ -22,15 +26,7 @@ The following resources were used to build this sites media collection:
 2.  https://www.altonmill.ca/art/galleries/
 3.   https://www.facebook.com/AltonMill/
 4.  https://www.historicplaces.ca/media/5422/sosguideen.pdf
-
-## Acknowledgments
-The creators would like to thank those involved for their time and support:
-
--Martin Kouprie of the Alton Mill Arts Centre for his time and thoughtful conversation
--The York University Making and Media Creation Lab for accessible workshops and equipment
-
 ## References
-
 The following sources were used to formulate the podcast narration: 
 
 1. Alton Mills Art Center Admin. History · Alton Mill. (2023).
