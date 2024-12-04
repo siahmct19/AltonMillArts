@@ -28,7 +28,7 @@ tagline: Finding Intersections of Care and Change in Heritage Spaces
 description: "Welcome to A Work of Love, the podcast series where co-hosts Ashley Chintan and Siah McTavish discuss the ongoing emergence of contemporary art in heritage sites. Discussing the nuances of blending the past with the present, this podcast explores the techniques and values associated with bringing contemporary creativity to heritage narratives based in historical fact."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Siah McTavish and Ashley Chintan"
-{% include feature/audio.html objectid="A Work of Love at The Alton Mill Arts Centre" %}
+
 
 ##########
 # COLLECTION SETTINGS
